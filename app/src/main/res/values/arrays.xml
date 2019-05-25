@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="images">
+        <item>@drawable/harddisk</item>
+        <item>@drawable/keyboard</item>
+        <item>@drawable/memory</item>
+        <item>@drawable/monitor</item>
+        <item>@drawable/mouse</item>
+        <item>@drawable/printer</item>
+        <item>@drawable/processor</item>
+        <item>@drawable/projector</item>
+        <item>@drawable/ram</item>
+        <item>@drawable/scanner</item>
+        <item>@drawable/server</item>
+        <item>@drawable/speaker</item>
+        <item>@drawable/vr</item>
+    </array>
+
+    <string-array name="names">
+        <item>harddisk</item>
+        <item>keyboard</item>
+        <item>memory</item>
+        <item>monitor</item>
+        <item>mouse</item>
+        <item>printer</item>
+        <item>processor</item>
+        <item>projector</item>
+        <item>ram</item>
+        <item>scanner</item>
+        <item>server</item>
+        <item>speaker</item>
+        <item>vr</item>
+    </string-array>
+
+</resources>
